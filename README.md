@@ -11,8 +11,9 @@ The goal with this project is to have a whole medication system that functions l
 This is an elaborate remix of [TOXXIC407's Pill Organizer](https://www.thingiverse.com/thing:6817349), but significantly smaller (60%) in size and a few extra parts.
 
 I tested this on a FlashForge Adventurer 5M Pro using natural PLA and Food Safe PLA printed at .12mm Fine Settings with 15% infill. 
-I recommend using certified Food Safe PLA for obvious reasons, but I'm not a doctor or a lawyer, so you print at your own risk.
-I'm mostly posting this because I have a habit of deleting and overwriting project STL files.
+I recommend using certified Food Safe PLA for obvious reasons, but I'm not a medical doctor or a lawyer, so you print at your own risk.
+
+I'm mostly posting this because I have a habit of deleting and overwriting project STL files and I don't want to lose this (again).
 
 # Instructions
 1. Download the pillbox_daybase.stl and monday.stl files
