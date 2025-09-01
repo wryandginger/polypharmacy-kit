@@ -6,7 +6,7 @@ I needed to create this because all of these services have shut down (or become 
 In my case, Amazon's aquisition and integration of PillPack has resulted in some of my medications now being "ineligible" for PillPack without warning or alternatives.
 For a service designed for folks who need medication management help, (i.e. the elderly and chronically ill) this is deeply disappointing and frustrating.
 
-The goal is to have a whole system that functions like PillPack, but wastes less plastic and gives Amazon less data about you.
+The goal with this project is to have a whole medication system that functions like PillPack, but wastes less plastic and gives Amazon less of your personal data.
 
 This is an elaborate remix of [TOXXIC407's Pill Organizer](https://www.thingiverse.com/thing:6817349), but significantly smaller (60%) in size and a few extra parts.
 
